@@ -1,2 +1,2 @@
 # smit
-Sring Method Assingment
+String Method Assingment
