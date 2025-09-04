@@ -1,2 +1,2 @@
 # smit
-assingment
+Sring Method Assingment
